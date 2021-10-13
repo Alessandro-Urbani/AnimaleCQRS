@@ -5756,19 +5756,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\": {}
+    "C:\\Users\\Fastelli Daniele\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
       "projectName": "AnimaleCQRS.Shared",
-      "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
-      "packagesPath": "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\obj\\",
+      "projectPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
+      "packagesPath": "C:\\Users\\Fastelli Daniele\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\D'agostino Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fastelli Daniele\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5832,7 +5832,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

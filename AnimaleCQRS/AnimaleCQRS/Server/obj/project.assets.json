@@ -6395,19 +6395,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\": {}
+    "C:\\Users\\Fastelli Daniele\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Server\\AnimaleCQRS.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Server\\AnimaleCQRS.Server.csproj",
       "projectName": "AnimaleCQRS.Server",
-      "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Server\\AnimaleCQRS.Server.csproj",
-      "packagesPath": "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Server\\obj\\",
+      "projectPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Server\\AnimaleCQRS.Server.csproj",
+      "packagesPath": "C:\\Users\\Fastelli Daniele\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\D'agostino Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fastelli Daniele\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6421,11 +6421,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj": {
-              "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj"
+            "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj": {
+              "projectPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj"
             },
-            "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
-              "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj"
+            "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
+              "projectPath": "C:\\Users\\Fastelli Daniele\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj"
             }
           }
         }
@@ -6481,7 +6481,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
