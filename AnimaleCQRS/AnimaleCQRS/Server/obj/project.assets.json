@@ -1818,9 +1818,6 @@
         "dependencies": {
           "AnimaleCQRS.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.10",
-          "Microsoft.EntityFrameworkCore": "5.0.11",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.11",
-          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.11",
           "System.Net.Http.Json": "5.0.0"
         },
         "compile": {
