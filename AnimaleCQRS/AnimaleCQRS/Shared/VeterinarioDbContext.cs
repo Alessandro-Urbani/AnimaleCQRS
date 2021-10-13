@@ -17,8 +17,8 @@ namespace AnimaleCQRS.Shared.Models
         {
         }
 
-        public virtual DbSet<Animale> Animales { get; set; }
-        public virtual DbSet<Cliente> Clientes { get; set; }
+        public virtual DbSet<Animale> Animali { get; set; }
+        public virtual DbSet<Cliente> Clienti { get; set; }
 
     }
 }

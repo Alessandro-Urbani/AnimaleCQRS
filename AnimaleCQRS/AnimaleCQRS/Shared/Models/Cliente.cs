@@ -13,7 +13,7 @@ namespace AnimaleCQRS.Shared.Models
     {
         public Cliente()
         {
-            Animales = new HashSet<Animale>();
+            Animali = new HashSet<Animale>();
         }
 
         [Key]
@@ -26,6 +26,6 @@ namespace AnimaleCQRS.Shared.Models
         public string Cognome { get; set; }
 
         [InverseProperty(nameof(Animale.IdPadroneNavigation))]
-        public virtual ICollection<Animale> Animales { get; set; }
+        public virtual ICollection<Animale> Animali { get; set; }
     }
 }

@@ -25,7 +25,7 @@ namespace AnimaleCQRS.Shared.Models
         public int IdPadrone { get; set; }
 
         [ForeignKey(nameof(IdPadrone))]
-        [InverseProperty(nameof(Cliente.Animales))]
+        [InverseProperty(nameof(Cliente.Animali))]
         public virtual Cliente IdPadroneNavigation { get; set; }
     }
 }
