@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Urbani Alessandro\\source\\repos\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {}
+    "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Urbani Alessandro\\source\\repos\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
+    "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Urbani Alessandro\\source\\repos\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
         "projectName": "AnimaleCQRS.Shared",
-        "projectPath": "C:\\Users\\Urbani Alessandro\\source\\repos\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
+        "projectPath": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
         "packagesPath": "C:\\Users\\Urbani Alessandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Urbani Alessandro\\source\\repos\\AnimaleCQRS\\AnimaleCQRS\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Urbani Alessandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,30 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
