@@ -1,0 +1,15 @@
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\bin\Debug\net5.0\AnimaleCQRS.Shared.deps.json
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\bin\Debug\net5.0\AnimaleCQRS.Shared.runtimeconfig.json
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\bin\Debug\net5.0\AnimaleCQRS.Shared.runtimeconfig.dev.json
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\bin\Debug\net5.0\AnimaleCQRS.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\bin\Debug\net5.0\ref\AnimaleCQRS.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\bin\Debug\net5.0\AnimaleCQRS.Shared.pdb
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.csproj.AssemblyReference.cache
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.AssemblyInfoInputs.cache
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.AssemblyInfo.cs
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\ref\AnimaleCQRS.Shared.dll
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.pdb
+C:\Users\D'agostino Fabio\Source\Repos\Alessandro-Urbani\AnimaleCQRS\AnimaleCQRS\AnimaleCQRS\Shared\obj\Debug\net5.0\AnimaleCQRS.Shared.genruntimeconfig.cache
