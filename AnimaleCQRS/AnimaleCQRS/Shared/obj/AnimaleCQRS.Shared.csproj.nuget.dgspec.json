@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {}
+    "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
+    "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
         "projectName": "AnimaleCQRS.Shared",
-        "projectPath": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
-        "packagesPath": "C:\\Users\\Urbani Alessandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj",
+        "packagesPath": "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Urbani Alessandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\D'agostino Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

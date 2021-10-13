@@ -8414,19 +8414,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Urbani Alessandro\\.nuget\\packages\\": {}
+    "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj",
+      "projectUniqueName": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj",
       "projectName": "AnimaleCQRS.Client",
-      "projectPath": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj",
-      "packagesPath": "C:\\Users\\Urbani Alessandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\obj\\",
+      "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\AnimaleCQRS.Client.csproj",
+      "packagesPath": "C:\\Users\\D'agostino Fabio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Urbani Alessandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\D'agostino Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8440,8 +8440,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
-              "projectPath": "C:\\Users\\Urbani Alessandro\\Documents\\GitHub\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj"
+            "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj": {
+              "projectPath": "C:\\Users\\D'agostino Fabio\\Source\\Repos\\Alessandro-Urbani\\AnimaleCQRS\\AnimaleCQRS\\AnimaleCQRS\\Shared\\AnimaleCQRS.Shared.csproj"
             }
           }
         }
